@@ -1,0 +1,9 @@
+[project]
+name = "terminal-fx"
+version = "0.1"
+description = "Terminal wallpaper animation engine"
+authors = [{name="Oscar Johnson"}]
+dependencies = []
+
+[project.scripts]
+terminalfx = "main:main"

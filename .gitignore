@@ -1,0 +1,18 @@
+# --- Python Junk ---
+**/__pycache__/
+**/*.py[cod]
+**/*.egg-info/
+**/.venv/
+**/build/
+**/dist/
+
+# --- Rust Junk ---
+**/target/
+**/Cargo.lock
+
+# --- OS & IDE Junk ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
